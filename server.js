@@ -36,5 +36,5 @@ app.get('/starter-page', (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`Portfolio app is running at http://localhost:${port}`);
+  console.log(`CCL Project is running at http://localhost:${port}`);
 });
